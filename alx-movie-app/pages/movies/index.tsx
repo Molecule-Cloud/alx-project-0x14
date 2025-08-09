@@ -1,10 +1,7 @@
-
-const Movies: React.FC = () => {
+export default function () {
     return (
         <>
-            <p>This is my Movie Page</p>
+            <p>Cars</p>
         </>
     )
 }
-
-export default Movies

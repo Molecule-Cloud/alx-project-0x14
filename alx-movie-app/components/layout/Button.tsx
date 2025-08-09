@@ -7,4 +7,4 @@ const LayoutButton: React.FC = () => {
     )
 }
 
-export default LayoutButton
+export default LayoutButton;
