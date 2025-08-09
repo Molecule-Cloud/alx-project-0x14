@@ -409,13 +409,6 @@ function fetchWithErrorHandling(path) {
 }
 ```
 
-## Usage Limits and Best Practices
-
-### Rate Limits
-- **Free Tier**: 100 requests per month
-- **Basic Plan**: 10,000 requests per month
-- **Pro Plan**: 100,000 requests per month
-- **Ultra Plan**: 1,000,000 requests per month
 
 ### Best Practices
 
