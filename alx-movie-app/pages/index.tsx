@@ -1,5 +1,7 @@
 import Button from "@/components/commons/Button";
-import { useRouter } from "next/router";
+import { useRouter } from "next/router"
+
+;
 const Home: React.FC = () => {
   const router = useRouter();
 
